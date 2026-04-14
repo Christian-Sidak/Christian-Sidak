@@ -2,7 +2,7 @@
 
 Product manager and engineer building at the intersection of AI agents and developer tooling.
 
-Senior PM at [Anduril Industries](https://anduril.com). Previously led computer vision products at Palantir for Project Maven, and co-founded [Sentinel](https://sentineltech.eu) -- a vineyard management platform used by Opus One, Dalla Valle, and Dominus Estate. Three patents in geospatial AI. Harvard '17, summa cum laude.
+Senior PM at [Anduril Industries](https://anduril.com). Previously led computer vision products at Palantir for Project Maven, and co-founded [Sentinel](https://sentineltech.eu) - a vineyard management platform used by Opus One, Dalla Valle, and Dominus Estate. Three patents in geospatial AI. Harvard '17, summa cum laude.
 
 ## Open source contributions
 
