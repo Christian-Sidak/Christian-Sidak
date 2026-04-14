@@ -8,11 +8,11 @@ Senior PM at [Anduril Industries](https://anduril.com). Previously led computer 
 
 Active contributor to the AI agent and MCP ecosystem:
 
-**Agent frameworks** -- [smolagents](https://github.com/huggingface/smolagents/pull/2126) (guardrail authorization layer), [crewAI](https://github.com/crewAIInc/crewAI/pull/5289) (shared state mutation fix), [langgraph](https://github.com/langchain-ai/langgraph/pull/7426) (checkpoint query optimization)
+**Agent frameworks** - [smolagents](https://github.com/huggingface/smolagents/pull/2126) (guardrail authorization layer), [crewAI](https://github.com/crewAIInc/crewAI/pull/5289) (shared state mutation fix), [langgraph](https://github.com/langchain-ai/langgraph/pull/7426) (checkpoint query optimization)
 
-**MCP ecosystem** -- [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk/pull/1855) (type fixes), [python-sdk](https://github.com/modelcontextprotocol/python-sdk/pull/2397) (retry loop fix), [inspector](https://github.com/modelcontextprotocol/inspector/pull/1178) (tool count UI), [mcp2cli](https://github.com/knowsuchagency/mcp2cli/pull/43) (usage-aware tool ranking)
+**MCP ecosystem** - [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk/pull/1855) (type fixes), [python-sdk](https://github.com/modelcontextprotocol/python-sdk/pull/2397) (retry loop fix), [inspector](https://github.com/modelcontextprotocol/inspector/pull/1178) (tool count UI), [mcp2cli](https://github.com/knowsuchagency/mcp2cli/pull/43) (usage-aware tool ranking)
 
-**SDKs** -- [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python/pull/1335) (streaming error handling), [gmail-mcp](https://github.com/shinzo-labs/gmail-mcp/pull/77) (thread reply formatting)
+**SDKs** - [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python/pull/1335) (streaming error handling), [gmail-mcp](https://github.com/shinzo-labs/gmail-mcp/pull/77) (thread reply formatting)
 
 ## Selected projects
 
