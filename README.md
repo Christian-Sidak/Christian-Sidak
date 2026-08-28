@@ -21,6 +21,7 @@ I contribute across the AI agent and MCP ecosystem:
 
 | Project | What it does |
 |---------|-------------|
+| [**pdf2audiobook**](https://github.com/Christian-Sidak/pdf2audiobook) | Turn PDFs into eval-gated audiobooks with cloned narrator voices, fully local on Apple Silicon |
 | [**Bill.com MCP Server**](https://github.com/Christian-Sidak/billcom-mcp-server) | MCP server for Bill.com AP/AR automation with Claude |
 | [**Slopify**](https://github.com/Christian-Sidak/slopify) | Automate LinkedIn posts in your actual writing voice |
 | [**NTRIP Client**](https://github.com/Christian-Sidak/ntrip-client) | Lightweight Java NTRIP client for GNSS RTK. Zero dependencies. Maven Central. |
@@ -29,4 +30,4 @@ I contribute across the AI agent and MCP ecosystem:
 
 #### Currently interested in
 
-AI agent tooling and MCP servers / GNSS and precision agriculture / Classical Syriac / [Writing](https://christiansidak.com)
+AI agent tooling and MCP servers / local TTS and audiobook pipelines / GNSS and precision agriculture / Classical Syriac / [Writing](https://christiansidak.com)
